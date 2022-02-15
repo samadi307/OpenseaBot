@@ -12,6 +12,6 @@
 >
 > - [ ] In the future, I will add the option to buy when a certain price is reached
 
-# Result
+# Result Example
 ![image](https://user-images.githubusercontent.com/53188622/154037850-ef62c407-d592-488c-8c06-4b84a704ed81.png)
 
