@@ -5,6 +5,7 @@ import cloudscraper
 from requests_html import HTMLSession
 from fake_useragent import UserAgent
 import time
+import sys
 
 
 def GetNameOfCollection(link):
@@ -61,6 +62,6 @@ def main():
         print('Name: '+str(GetNameOfCollection(link)) +' | '+'Price: '+str(FloorPrice(link)) + ' ETH')
 
 
-link = "##" ##Example = https://opensea.io/collection/clonex
+link = sys.argv[1]
 main()
 
