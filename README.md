@@ -18,7 +18,7 @@
 ```
 pip install -r requirements.txt
 ```
-2- Run Bot `openseaBot.py "Link_of_Collection" `
+2- Run Bot `openseaBot.py "Link_of_Collection" ` Example :
   - For Python :
 ```
 python openseaBot.py "https://opensea.io/collection/boredapeyachtclub"
