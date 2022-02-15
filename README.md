@@ -29,5 +29,5 @@ python3 openseaBot.py "https://opensea.io/collection/boredapeyachtclub"
 ```
 
 # Result
-![image](https://user-images.githubusercontent.com/53188622/154037850-ef62c407-d592-488c-8c06-4b84a704ed81.png)
+![image](https://user-images.githubusercontent.com/53188622/154047095-ffe24e6c-42ce-4a96-80b5-4a24b76c780c.png)
 
