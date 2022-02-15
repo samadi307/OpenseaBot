@@ -12,6 +12,22 @@
 >
 > - [ ] In the future, I will add the option to buy when a certain price is reached
 
-# Result Example
+# How To Install 
+
+1- Go To Terminal and Install `requirements.txt`
+```
+pip install -r requirements.txt
+```
+2- Run Bot `openseaBot.py "Link_of_Collection" `
+  - For Python :
+```
+python openseaBot.py "https://opensea.io/collection/boredapeyachtclub"
+```
+  - For Python3 :
+```
+python3 openseaBot.py "https://opensea.io/collection/boredapeyachtclub"
+```
+
+# Result
 ![image](https://user-images.githubusercontent.com/53188622/154037850-ef62c407-d592-488c-8c06-4b84a704ed81.png)
 
