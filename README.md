@@ -2,7 +2,8 @@
 
 # OPENSEA SCRIPT  
 
-
+> ### Post Link to :
+>
 > - [x] Get Name Of Collection
 >
 > - [x] Get Floor Price
