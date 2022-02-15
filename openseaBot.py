@@ -2,8 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import cloudscraper
-from requests_html import HTMLSession
-from fake_useragent import UserAgent
 import time
 import sys
 
