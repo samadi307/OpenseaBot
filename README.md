@@ -2,16 +2,16 @@
 
 # OPENSEA SCRIPT  
 
-> ### Post Link to :
+> ### Scrape Link of Opensea to :
 >
-> - [x] Get Name Of Collection
+> - [x] Get Name Of Collection `#Loop`
 >
-> - [x] Get Floor Price
+> - [x] Get Floor Price `#Loop`
 >
-> - [x] Get the NFT link at the lowest price
+> - [x] Get the NFT link at the lowest price `#Loop`
 >
 > - [ ] In the future, I will add the option to buy when a certain price is reached
-
+>
 # How To Install 
 
 1- Go To Terminal and Install `requirements.txt`
